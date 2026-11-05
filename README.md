@@ -1,5 +1,7 @@
 # Misja Zenka — Router Ostateczny
 
+![Misja Zenka — podwórko, bohater i dozorca](docs/screenshot.png)
+
 Humorystyczna przygodówka point-and-click na Windows, w klimacie dawnych gier amigowych.
 Na osiedlu pada Internet. Zenek musi porozmawiać z sąsiadami, znaleźć potrzebne części
 i uruchomić sieć.
