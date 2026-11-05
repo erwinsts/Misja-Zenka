@@ -45,4 +45,4 @@ program Windows, bez kodu źródłowego.
 
 Ilustracje przygotowano z pomocą imagegen. Melodie i aranżacje są własne; nagrania
 instrumentów pochodzą z [GeneralUser GS, S. Christiana Collinsa](https://schristiancollins.com/generaluser.php),
-a muzykę wyrenderowano przez FluidSynth. Gra nie zawiera muzyki ani grafik z „Misji Harolda”.
+a muzykę wyrenderowano przez FluidSynth.
